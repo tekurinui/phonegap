@@ -14,7 +14,9 @@
     <author href="http://plink.co.nz" email="jeremy@plink.co.nz">
         Jeremy Banks
     </author>
- 
+
+    <preference name="fullscreen" value="true"/>
+     
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
     <feature name="http://api.phonegap.com/1.0/file"/>
